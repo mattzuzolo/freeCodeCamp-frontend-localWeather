@@ -1,0 +1,21 @@
+.title-section {
+  text-align:center;
+  margin-top:40px;
+}
+
+.temperature-content {
+  text-align:center;
+  padding:30px;
+  font-size: 40px;
+}
+
+.weather-content {
+  text-align:center;
+  margin: 0 auto;
+  width:90%;
+}
+
+.weather-detail {
+  float:left;
+  padding:20px;
+}
